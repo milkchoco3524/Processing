@@ -27,3 +27,22 @@ point(254,150);
 ////fill(140,0,0);
 //noFill();
 //ellipse(250, 150, 120, 120);
+
+
+void setup(){
+  size(400, 400);
+  background(0);
+  textSize(30);
+  text("Ho Young LEE",200, 100); 
+  
+  PFont font = createFont("궁서체", 32);
+  textFont(font);
+  
+  text("Ho Young LEE",150, 300); 
+  //PImage img = loadImage("logo.png");
+  //image(img, 20, 50, 200, 70);
+
+}
+
+void draw(){
+}
