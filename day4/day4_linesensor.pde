@@ -1,4 +1,3 @@
-// LMJ
 
 import processing.serial.*;
 Serial port;
